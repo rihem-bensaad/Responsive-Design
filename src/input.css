@@ -1,0 +1,8 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer components {.my - column {
+        @apply w - full sm : w - 6 / 12 md : w4 / 12 lg : w - 3 / 12 xl : w - [20 %] p - 5;
+    }
+}
